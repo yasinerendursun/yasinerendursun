@@ -27,7 +27,7 @@ Passionate Turkish developer specializing in backend, data science, and machine 
 ![tmux Badge](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge)
 ![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=for-the-badge)
 
-
+ 
 ## Tech
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
